@@ -37,12 +37,10 @@ aside.two {
 }
 
 .Ingredients {
-  float: right;
+margin-left: 200px;
 }
 .lorem {
-  display: inline-block;
-  width: 935px;
-  float: right;
+  margin-left: 200px;
 }
 .cake2 > img {
   width: 900px;
@@ -54,7 +52,7 @@ aside.two {
 .flex-container {
   display: flex;
   justify-content: space-between;
-
+  width: 1050px;
   background-color: rgb(57, 208, 208);
   padding: 15px 35px 15px 15px;
 }
